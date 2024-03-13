@@ -8,3 +8,18 @@ The attached sample code file includes:
 3. Geostatistical modelling of areas with high probability of contact with specific outcomes and shared/separate spatial effects
 
 Data can only be shared with approval from relevant ethics committees. For further information, please contact authors.
+
+**Instructions for use**
+**System requirements:**
+R version 4.2.0 (2022-04-22) -- "Vigorous Calisthenics"
+Copyright (C) 2022 The R Foundation for Statistical Computing
+Platform: x86_64-apple-darwin17.0 (64-bit)
+
+RStudio 2022.02.3+492 "Prairie Trillium" Release (1db809b8323ba0a87c148d16eb84efe39a8e7785, 2022-05-16) for macOS
+Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5_1) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.12.10 Chrome/69.0.3497.128 Safari/537.36
+
+**Installation guide**
+Attached files can be downloaded and directly imported into RStudio with read.csv().
+
+**Simulated data/demo**
+Two input demo datasets are attached for wild bird contact (real) and H5 binding (simulated) with environmental variables. A small (real) prediction dataset is also included. Expected run time varies based on the number of covariates and whether a spatial fixed effect is included.
