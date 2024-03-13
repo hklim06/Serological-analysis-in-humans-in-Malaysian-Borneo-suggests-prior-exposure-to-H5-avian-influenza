@@ -22,4 +22,4 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5_1) AppleWebKit/537.36 (KHTML, like G
 Attached files can be downloaded and directly imported into RStudio with read.csv().
 
 **Simulated data/demo**
-Two input demo datasets are attached for wild bird contact (real) and H5 binding (simulated) with environmental variables. A small (real) prediction dataset is also included. Expected run time varies based on the number of covariates and whether a spatial fixed effect is included.
+An input demo dataset is attached included data on wild bird contact (real) and H5 binding (simulated) with environmental variables. A small (real) prediction dataset is also included. Expected run time varies based on the number of covariates and whether a spatial fixed effect is included.
